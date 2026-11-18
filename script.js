@@ -10,11 +10,11 @@ function preparerMail() {
     }
 
     // --- TES INFOS PERSONNELLES À COMPLÉTER ---
-    const tonNom = "[Ton Prénom et Nom]";
+    const tonNom = "Nicolas PENOTY";
     const tonProgramme = "Étudiant en 3ème année de Global BBA (Spécialisation Finance) - NEOMA BS";
-    const tonTelephone = "[Ton Numéro]";
+    const tonTelephone = "07.83.75.46.86";
     
-    const descriptionProjet = "un outil d'analyse quantitative et fondamentale d'actions que j'ai développé, doté d'un dashboard interactif";
+    const descriptionProjet = "Un projet perso d'outil d'analyse financière automatisé avec dashboard interactif, que je serais ravi de vous présenter si le sujet vous intéresse.";
     // ------------------------------------------
 
     const lienCV = "https://drive.google.com/file/d/1ogtwu_jfZFcSWJsPona2abw6tL6q2Ljp/view?usp=drive_link";
