@@ -17,7 +17,7 @@ function preparerMail() {
     const descriptionProjet = "Un projet perso d'outil d'analyse financière automatisé avec dashboard interactif, que je serais ravi de vous présenter si le sujet vous intéresse.";
     // ------------------------------------------
 
-    const lienCV = "https://n1ghtway.github.io/candidature/CV_PENOTY_Nicolas_Stage_Finance_2027_France";;
+    const lienCV = "https://drive.google.com/file/d/1ogtwu_jfZFcSWJsPona2abw6tL6q2Ljp/view?usp=drive_link";
     const lienProjet = "https://n1ghtway.github.io/NP-Finance-Project-/";
 
     const salutation = prenom ? `Bonjour ${prenom},` : `Bonjour,`;
